@@ -33,4 +33,5 @@ $ gem install jekyll bundler
 To run the website locally 
 
 $ cd folder location
+
 $ bundle exec jekyll serve
