@@ -29,3 +29,8 @@ Step 2 – Install Jekyll
 Jekyll comes as a Ruby Gem and can be installed in any system running Ruby. Run the command below in a terminal to install Jekyll.
 
 $ gem install jekyll bundler
+
+To run the website locally 
+
+$ cd folder location
+$ bundle exec jekyll serve
